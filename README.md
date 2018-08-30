@@ -1,6 +1,6 @@
 # PWA Layanan Publik
 
-PWA layanan publik adalah proyek kolaborasi untuk membuat contoh-contoh aplikasi web dengan pendekatan Progressive Web App(PWA) sehingga pengguna umum bisa melihat dan menggunakan sebuah web modern dengan pengalaman yang baik seperti layaknya native apps. Aplikasi yang akan dibuat adalah aplikasi layanan publik seperti jadwal kereta, informasi bencana alam, informasi cuaca, dan lainnya. Silakan memberikan ide yang kira-kira bisa bermanfaat kepada masyarakat umum.
+PWA layanan publik adalah proyek kolaborasi untuk membuat contoh-contoh aplikasi web dengan pendekatan [Progressive Web App(PWA)](https://developers.google.com/web/progressive-web-apps/) sehingga pengguna umum bisa melihat dan menggunakan sebuah web modern dengan pengalaman yang baik seperti layaknya native apps. Aplikasi yang akan dibuat adalah aplikasi layanan publik seperti jadwal kereta, informasi bencana alam, informasi cuaca, dan lainnya. Silakan memberikan ide yang kira-kira bisa bermanfaat kepada masyarakat umum.
 
 Ada beberapa tahapan yang akan di lakukan di PWA Layanan Publik ini yaitu:
 * Pemilihan aplikasi apa yang akan dikerjakan. Silakan membuat issue di https://github.com/w3id/pwa-layanan-publik/labels/project-idea dan jangan lupa memberikan label `project-idea` di issue tersebut.
